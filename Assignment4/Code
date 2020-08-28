@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Author" content="Anurag Arya">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Coding Blocks Junior Web Development</h1>
+    <a href="#part2"> Link to "Section 2" of Assignment4.html </a>
+    <br>
+    <br>
+    <a href="abc.html">Link to abc.html </a>
+    <br>
+    <br>
+    <a href="abc.html#s3">Link to "Section 3" of abc.html</a>
+    <br>
+    <br>
+    <a href="/WEB_Assignment4/folder2/xyz.html">Link to "xyz.html" file of folder 2</a>
+    <br>
+    <br>
+    <a href="/WEB_Assignment4/folder2/xyz.html#a3">Link of "Food 3" of xyz.html file of folder 2</a>
+    <br>
+    <p>______________________________________________________________</p>
+    <p> Below we have different sections, in each section Links have been used..</p>
+    <section><h2><u>Section 1</u></h2></section>
+    <p>This section has links which will direct us to the following websites:</p>
+    <a href="https://www.youtube.com/">Youtube</a><br>
+    <a href="https://codingblocks.com/"> Coding Blocks :) </a><br>
+    <a href="https://github.com/">Git Hub</a><br>
+    <a href="https://www.google.com/">Google</a><br>
+    <a href="https://parenting.firstcry.com/articles/10-educational-cartoons-your-child-should-be-watching/">List for educational cartoons</a>
+    <br>
+    <br>
+    <a id="part2"><section><h2><u>Section 2 </u></h2></section></a>
+    <p>This section contain links through which we can directly call a particular organization:</p>
+    <a href="tel:1800-180-1104">National Medical Helpline no.</a><br>
+    <a href="tel:1800 889 9999">Jio customer care helpine no.</a><br>
+    <a href="tel: 085888 01217">Coding Blocks contact no.</a><br>
+    <a href="tel:+91-11-23978046">Covid-19 Helpline no.</a>
+    <br>
+    <br>
+    <a id="part3"><section><h2><u>Section 3</u></h2></section></a>
+    <p>This section contains links through which we can directly mail</p>
+    <a href="mailto:admissions@codingblocks.com">Coding Blocks E-Mail</a><br>
+    <a href="mailto:contact@sbi.co.in">SBI E-Mail</a><br>
+    <a href="mailto:support@vidyamandir.com">VMC contact e-mail</a><br>
+    <a href="mailto: ncov2019@gov.in">COVID-19 email helpline</a>
+    <br>
+    <br>
+    <section><h2><u>Section 4</u></h2></section>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae minus recusandae perferendis eveniet dolor debitis aspernatur nisi eligendi cum soluta nihil sapiente vero, similique cumque totam? Deserunt at corrupti alias?</p>
+
+</body>
+</html>
