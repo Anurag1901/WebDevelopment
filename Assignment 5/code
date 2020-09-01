@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<html>
+    <head>
+        <meta name="charset" content="UTF-8">
+        <meta name="viewport" content="width=device-width   initial scale="1.0">
+        <meta name="authors" content="Anurag Arya">
+        <title>Assignment 5</title>
+    </head>
+    <body>
+        <u><h2>Harry Potter</h2></u>
+        <p> Harry Potter is a series of seven fantasy novels. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and non-magical people.<b><i> This series is written by British author J. K. Rowling</i></b></p>
+        <p><i>The name of the movies are as follows:-</i><i><ol type="1"><li>Philosopher's Stone (1997)</li>
+            <li>Chamber of Secrets (1998)</li>
+            <li> Prisoner of Azkaban (1999)</li>
+            <li>Goblet of Fire (2000)</li>
+            <li> Order of the Phoenix (2003)</li>
+            <li>Half-Blood Prince (2005)</li>
+            <li>Deathly Hallows (2007)</li></ol></i></p>
+         <b><p><u>Images of Movies</u></p></b>
+           <img src="https://upload.wikimedia.org/wikipedia/en/e/e7/Harry_Potter_and_the_Order_of_the_Phoenix_poster.jpg" height="175" alt="Harry Potter" >
+           <img src="https://api.time.com/wp-content/uploads/2014/07/301386_full1.jpg" height="190" width="180" alt="Daniel Radcliffe as Harry">
+           <br>
+           <img src="https://i.pinimg.com/474x/82/60/fe/8260fefac2965500245796169b843ee9.jpg" height="210" width="200" alt="Hogwarts Fictious School">
+           <img src="https://cdn.europosters.eu/image/750/posters/harry-potter-hogwarts-school-crest-i73597.jpg" height="210" width="200"  alt="Four houses of Hogwarts Magic School">
+           <br>
+           <p><b>Audios of Harry Potter Movies</b></p>
+           <audio src="insult.mp3" controls muted autoplay ></audio>
+           <audio src="brilliant.mp3" type="mp3" controls muted loop autoplay></audio>
+           <br>
+           <p><b><u>Some Videos </u></b></p>
+           <video src="Harry Potter and the Philosopher's Stone - the first look at Hogwarts (HD)[1080P].MP4" controls muted autoplay width="350" ></video>
+           <video src="Harry Potter and the Prisoner of Azkaban (4 5) Movie CLIP - The Feminine Touch (2004) HD[720P].MP4" controls muted autoplay width="350" ></video>
+    </body>
+</html>
