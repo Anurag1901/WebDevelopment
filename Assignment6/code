@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<html>
+    <head>
+        <meta name="charset" content="UTF-8">
+        <meta name="viewport" content="width=device-width ,initial scale="1.0">
+        <meta name="authors" content="Anurag Arya">
+        <title>Assignment 6</title>
+    </head>
+    <body>
+        <h2><i>This table contains my all time favourite cartoons :)</i></h2>
+        <table border="10" cellspacing="8" cellpadding="8" bgcolor="plum">
+             <thead bgcolor="gainsboro">
+                 <tr>
+                    <td scope="row" colspan="5" align="center"><em><u><b>My Favourite Cartoons</b></u></em> 
+                    </td>
+                 </tr>
+             </thead>
+
+             <tbody align="center">
+                 <tr bgcolor="sandybrown">
+                     <th scope="col"><i>Image</i></th>
+                     <th scope="col"><i>Name</i></th>
+                     <th scope="col"><i>Country of Origin</i></th>
+                     <th scope="col"><i>Characters</i></th>
+                     <th scope="col"><i>Info  &AMP; Duration  </i></th>
+                 </tr>
+                 <tr scope="row" bgcolor="greenyellow" >
+                     <td><img src="shinchan.jpg" height="150" width="250" ></td>
+                     <td><i><b>Shinchan</i></b></td>
+                     <td><b>Japan</b></td>
+                     <td><i>Shinchan Nohara, Misae Nohara,<br> Himawari Nohara and Hiroshi Nohara</i></td>
+                     <td><a href="https://en.wikipedia.org/wiki/Crayon_Shin-chan"target="_blank">For info click here</a><br><br>(1992-2011)</td>
+                 </tr>
+                 <tr scope="row" bgcolor="goldenrod" >
+                    <td><img src="Mr.Bean.jpg" height="150"></td>
+                    <td><b><i>Mr.Bean</i></b></td>
+                    <td><b>Britain</b></td>
+                    <tD><i>Mr.Bean, his doll and his grandmother</i></tD>
+                    <td><a href="https://en.wikipedia.org/wiki/Mr._Bean"target="_blank">For info click here</a><br><br>(2002-2005)</td>
+                </tr>
+                <tr scope="row" bgcolor="cyan" >
+                    <td><img src="C T C D.jpeg" height="150" width="250" ></td>
+                    <td><b><i>Courage the Cowardly Dog</i> </b></td>
+                    <td><b>America</b></td>
+                    <td><i>Old Couple and thier brave dog</i></td>
+                    <td><a href="https://en.wikipedia.org/wiki/Courage_the_Cowardly_Dog" target="_blank">For info click here</a><br><br>(1999-2002) Special Edition at 2014</td>
+                </tr>
+                <tr scope="row" bgcolor="brown" >
+                    <td><img src="Tom & Jery.jpg" height="150" ></td>
+                    <td><b><i>Tom and Jerry</i></b></td>
+                    <td><b>America-Canada</b></td>
+                    <td><i>Tom and Jerry</i></td>
+                    <td><a href="https://en.wikipedia.org/wiki/Tom_and_Jerry" target="_blank">For info click here </a><br><br> (1960-1967 , 2014-2016 , 2019 )</td>
+                 </tr>
+                 <tr scope="row" bgcolor="orange" >
+                    <td><img src="Doreamon.jpg" height="150" ></td>
+                    <td><b><i>Doraemon</i></b></td>
+                    <td><b>Japan</b></td>
+                    <td><i>Nobita, Doraemon, Nobita's parents,<br> Nobita's friends and Nobita's teacher</i></td>
+                    <td><a href="https://en.wikipedia.org/wiki/Doraemon" target="_blank">For info click here </a><br><br> (1970-1996) (Animes-1979,2005)
+                    </td>
+                  </tr>
+             </tbody>
+         </table>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
