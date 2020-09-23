@@ -1,0 +1,45 @@
+.head1{
+    background-color:#8ffffb;
+    text-align: center;
+    font-family: 'Grenze Gotisch', cursive;
+}
+.superman{
+    color: crimson;
+}
+.one{
+    background-color: rgb(253, 226, 221);
+    letter-spacing: 3px;
+    font-size: 14px;
+}
+.batman{
+    color: navy;
+    text-align: right;
+    text-decoration-line: overline;
+}
+.two{
+    background-color: #defffe;
+    line-height: 2.0;
+    word-spacing: 3px;
+    font-family: 'Lobster', cursive;;
+}
+.flash{
+    color: olivedrab;
+    text-align: center;
+}
+.three{
+    background-color:#e3f7d2;
+    text-decoration: line-through;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+.bold{
+    font-style: italic;
+}
+.link{
+    text-decoration: none;
+}
+.four{
+    text-decoration: overline;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
