@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: teal;
+
+    /* text-shadow: horizontal-shadow vertical-shadow blur-radius color  */
+    text-shadow: -3px 2.5px 0px orange,
+                 -6px 5px 0px red,
+                 -9px 7.5px 0px purple;
+}
+body{
+    background-color: black;
+}
+.about-section .p{
+    color: rgb(86, 255, 86);
+    font-size: xx-large;
+    text-decoration: line-through yellow;
+}
+.about-section .p1{
+    color: aquamarine;
+}
+.about-section .p2{
+    color: red;
+}
+.about-section .p3{
+    color: cadetblue;
+}
+.about-section .p4{
+    color: coral;   
+}
+.about-section .p5{
+    color: plum;
+    text-transform: uppercase;
+}
+.about-section .p6{
+    color: gold;
+}
+.about-section .p1 span.one{
+    color: red;
+    font-size: x-large;
+}
+div.about-section .p2 span.two{
+    color:yellow;
+    font-size: small;
+}
+div.about-section .p3 span.three{
+    color: greenyellow;
+    font-size: x-large;
+}
+div.about-section .p4 span.four{
+    color: hotpink;
+    font-size: small;
+}
+div.about-section p.p5 span.five{
+    color: red;
+    font-size: 12px;
+}
