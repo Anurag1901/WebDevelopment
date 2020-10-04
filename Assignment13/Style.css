@@ -1,0 +1,96 @@
+body{
+    background-color:darkseagreen;
+}
+p.one span.bold{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+p.one{
+    font-family: 'Sansita Swashed', cursive;
+    text-align: left;
+    background-color: white;
+    font-size: x-large;
+    margin-top: 50px;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+}
+p.two{
+    background-color: white;
+    background-image: url(https://image.shutterstock.com/image-vector/male-user-account-profile-circle-260nw-467503055.jpg);
+    height: 10%;
+    background-repeat: no-repeat;
+    background-position: left;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-left: 10%;
+
+}
+p.two span.hello{
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bolder;
+}
+
+p.three{
+    background-color: white;
+    font-size: 28px;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+p.three span.about{
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bolder;
+}
+
+p.four{
+    font-family: 'Pacifico', cursive;    
+    background-color: white;
+    font-size: 28px;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+}
+p.four span.project{
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bolder;
+}
+
+p.five{
+    background-color: white;
+    font-size: 28px;
+    margin-top: 3%;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+}
+p.five span.lang{
+    font-family: 'Sansita Swashed', cursive;
+    font-weight: bolder;
+}
+p.two span.hello{
+    font-size: 37px;
+}
+p.two span.name{
+    text-transform: uppercase;
+}
+p.two button.button{
+    color: green;
+    font-size: large;
+    padding: 1% 1.5% 1% 1.5%;
+}
