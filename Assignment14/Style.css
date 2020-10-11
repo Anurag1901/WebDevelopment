@@ -1,0 +1,68 @@
+body{
+    background-color: yellowgreen;
+    /* Border of page */
+    border-width: 17px;
+    border-color: aquamarine;
+    border-style: groove;
+}
+h2.about{
+    text-transform: uppercase;
+    text-align: center;
+}
+div.first p.one{
+    /* Font effects */
+    font-weight: bold;
+    text-align: center;
+     /* Border of para */
+    border-top-width: 8px;
+    border-left-width: 0px;
+    border-bottom-width: 8px;
+    border-right-width: 0px;
+    border-color: darkgreen;
+    border-style: double;
+}
+div.first img.img1{
+    height: 15%;
+    width: 15%;
+     /* Border of image  */
+    border-radius: 8px;
+    border-width: 8px;
+    border-style: dashed;
+    border-color: red;
+    /* To center-align an image  */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h2.history{
+    text-transform: uppercase;
+    text-align: center;
+}
+div.second p.two{
+    /* Font effects */
+    font-weight: bold;
+    text-align: center;
+     /* Border of para */
+    border-top-width: 8px;
+    border-left-width: 0px;
+    border-bottom-width: 8px;
+    border-right-width: 0px;
+    border-color: darkgreen;
+    border-style: double;
+}
+div.second img.img2{
+    height: 15%;
+    width: 15%;
+    /* Border of image  */
+    border-radius: 8px;
+    border-width: 8px;
+    border-style: dashed;
+    border-color:red;
+    /* To center-align an image  */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
