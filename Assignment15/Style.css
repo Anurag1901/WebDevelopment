@@ -1,0 +1,146 @@
+div.logo{
+    text-align: center; 
+}
+body{
+    border: deepskyblue;
+    border-width: 20px;
+    border-style: groove;
+    background-color: rgb(222, 240, 252);
+}
+
+h1.head{
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-family: 'Lobster Two', cursive;
+    color: rgb(248, 98, 43);
+    font-style: italic;
+}
+
+div.info{
+    margin-left: 8%;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: xx-large;
+}
+
+div.links{
+    text-align: center;
+    font-size: x-large;
+}
+div.links a.nostyle{
+    text-decoration: none;
+}
+div.links a.nostyle:link{
+    color:darkblue;
+}
+div.links a.nostyle:visited{
+    color: darkgreen;
+}
+div.links a.nostyle:hover{
+    color: crimson;
+}
+div.links a.nostyle:active{
+    color: darkgoldenrod;
+}
+
+div.submit button.button{
+    height: 1.25cm;
+    width: 3cm;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+}
+div.submit button.button:hover{
+    color: black;
+    font-style: italic;
+    background-color:honeydew;
+}
+
+div.submit{
+    text-align: center;
+}
+div.info label.info1{
+    color: steelblue;
+}
+div.info label.info2{
+    color: salmon;
+}
+div.info label.info3{
+    color: olivedrab;
+}
+div.info label.info4{
+    color: green;
+}
+div.info label.info5{
+    color: crimson;
+}
+div.info label.info6{
+    color: dodgerblue;
+}
+input.class6{
+    size: 8%;
+}
+div.info input.input1{
+    height: 0.6cm;
+    width: 4.5cm;
+}
+div.info input.input1:hover{
+    background-color: rgb(250, 193, 228);
+    
+}
+div.info input.input1:focus{
+    background-color: rgb(201, 255, 94);
+}
+
+
+div.info input.input2{
+    height: 0.6cm;
+    width: 4.5cm;
+}
+div.info input.input2:hover{
+    background-color: orange;
+}
+div.info input.input2:focus{
+    background-color: rgb(201, 255, 94);
+}
+
+
+div.info input.input3{
+    height: 0.6cm;
+    width: 4.5cm;
+}
+div.info input.input3:hover{
+    background-color: paleturquoise;
+}
+div.info input.input3:focus{
+    background-color: rgb(201, 255, 94);
+}
+
+
+div.info input.input4{
+    height: 0.6cm;
+    width: 4.5cm;
+}
+div.info input.input4:hover{
+    background-color: sandybrown;
+
+}
+div.info input.input4:focus{
+    background-color: rgb(201, 255, 94);
+}
+
+div.info input.input5{
+    height: 0.6cm;
+    width: 4.5cm;
+}
+div.info input.input5:hover{
+    background-color: rgb(121, 196, 24);
+}
+div.info input.input5:focus{
+    background-color: rgb(201, 255, 94);
+} 
+
+div.info input.input6{
+    height: 0.5cm;
+    width: 1.2cm;
+}
