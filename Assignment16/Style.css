@@ -1,0 +1,124 @@
+body{
+    border-style: groove; 
+    border-color: dodgerblue ;
+    border-width: 16px;
+    background-image: linear-gradient(45deg, #eafbfc 25%, #c5dff0 25%, #c5dff0 50%, #eafbfc 50%, #eafbfc 75%, #c5dff0 75%, #c5dff0 100%);
+    background-size: 56.57px 56.57px;
+}
+p.h1{
+    text-align: center;
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 250%;
+    text-decoration: underline;
+}
+p.img{
+    text-align: center;
+}
+p.img img{
+    height: 240px;
+    transform: skewY(5deg);
+}
+p.heading{
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+    color: crimson;
+    font-size: large;
+}
+div.info p{
+   text-align: center;
+   margin-left: 2%;
+   margin-right: 2%;
+}
+div.info p:first-child{
+    color: maroon;
+}
+div.info p:first-child:hover{
+    font-size: large;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: azure;
+}
+div.info p:nth-child(2){
+    color: midnightblue;
+}
+div.info p:nth-child(2):hover{
+    font-size: large;
+    font-weight: bolder;
+    background-color: lightcyan; 
+}
+div.info p:nth-child(3){
+    color: purple;
+}
+div.info p:nth-child(3):hover{
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: honeydew;
+}
+div.info p:nth-child(4){
+    color: tomato;
+}
+div.info p:nth-child(4):hover{
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: seashell;
+}
+div.info p:last-child{
+    font-style: italic;
+    color: teal;
+}
+div.info p:last-child:hover{
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(217, 245, 217);
+}
+div.info {
+    border: 6px;
+    border-style: double;
+    border-color: indianred;
+    background-color: honeydew;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+p.editable{
+    color: red;
+    text-align: center;
+    font-size: larger;
+}
+
+div.quiz{
+    border-width: 6px; 
+    border-color: indianred;
+    border-style: double;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    background-color: honeydew; 
+}
+div.quiz p{
+    padding-left: 3%;
+    font-size:x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+    color:brown;
+}
+div.quiz label{
+    padding-left: 3%;
+    padding-bottom: 4%;
+}
+
+div.quiz input:valid{
+    background-color: lightgreen;
+}
+div.quiz input:invalid{
+    background-color: lightsalmon;
+}
+div.quiz input:in-range + label::after{
+    content: 'Yay! Correct guess';
+}
+div.quiz input:out-of-range + label::before{
+    content: 'Oops.. Wrong guess';
+}
