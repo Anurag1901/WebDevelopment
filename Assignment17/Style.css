@@ -1,0 +1,168 @@
+body{
+    border-color: coral;
+    border-width: 25px;
+    border-style: double;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background: repeating-linear-gradient(
+        45deg,
+        #f5ffbd,
+        #f5ffbd 10px,
+        #d5f8a6 10px,
+        #d5f8a6 20px
+    )
+}
+p.name{
+    margin: 0px;
+    padding-top: 7pt;
+    padding-bottom: 7pt;
+    font-size: 32pt;
+    text-align: center;
+    background-color: coral;
+    font-family: 'Lobster', cursive;
+    position: sticky;
+    top: 1px;
+    z-index: 1;
+}
+div.header div.pic{
+    margin: 0px;
+    background-image: url(heading.jpg);
+    background-repeat: no-repeat;
+    height: 320px;
+}
+div.header div.pic p{
+    margin: 0px;
+    position: relative;
+    top: 100px;
+    left: 170px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: ghostwhite;
+    font-size: 1.75cm;
+}
+div.about p.heading2{
+    font-size: 28pt;
+    font-family: 'Lobster', cursive;
+    background-color:lavender ;
+    margin: 0px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    position: sticky;
+    top: 60px;   
+}
+
+div.about p.info2{
+    font-size: x-large;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+div.about p.info2:hover{
+    font-style: italic;
+    font-weight: bold;
+    color: darkred;
+    background-color: aliceblue;
+}
+div.useful p.heading3{
+    font-size: 28pt;
+    font-family: 'Lobster', cursive;
+    background-color: paleturquoise;
+    margin: 0px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    position: sticky;
+    top: 60px;
+}
+div.useful p.info3{
+    font-size: x-large;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+div.useful p.info3:hover{
+    font-style: italic;
+    font-weight: bold;
+    color: darkolivegreen;
+    background-color: aliceblue;
+}
+
+div.SandP p.heading4{
+    font-size: 28pt;
+    font-family: 'Lobster', cursive;
+    background-color: khaki;
+    margin: 0px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    position: sticky;
+    top: 60px;
+}
+div.SandP p.info4{
+    font-size: x-large;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+div.SandP p.info4:hover{
+    font-style: italic;
+    font-weight: bold;
+    color: darkmagenta;
+    background-color: aliceblue;
+}
+div.FandD p.heading5{
+    font-size: 28pt;
+    font-family: 'Lobster', cursive;
+    background-color:plum ;
+    margin: 0px;
+    padding-top: 13px;
+    padding-bottom: 13px;   
+    position: sticky;
+    top: 60px;
+}
+div.FandD p.info5{
+    font-size: x-large;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+div.FandD p.info5:hover{
+    font-style: italic;
+    font-weight: bold;
+    color: darkslateblue;
+    background-color: aliceblue;
+}
+div.Care p.heading6{
+    font-size: 28pt;
+    font-family: 'Lobster', cursive;
+    background-color: linen;
+    margin: 0px;
+    padding-top: 13px;
+    padding-bottom: 13px;   
+    position: sticky;
+    top: 60px;
+}
+div.Care p.info6{
+    font-size: x-large;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+div.Care p.info6:hover{
+    font-style: italic;
+    font-weight: bold;
+    color: darkred;
+    background-color: aliceblue;
+}
+div.contact a button{
+    font-size: 2cm;
+    background: transparent;
+    border: 0px;
+    
+}
+div.contact a button.buttonone{
+    position: fixed;
+    bottom: 2%;
+    right: 8%;
+}
+div.contact a button.buttontwo{
+    position: fixed;
+    bottom: 3%;
+    right: 2%;
+}
